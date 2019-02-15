@@ -1,3 +1,3 @@
-# hello-world my first trial
+hello-world is my first trial
 
 just following orders
